@@ -1,9 +1,9 @@
 
-# ⏱️ HashSlap Productivity App
+# ⏱️ Dev-Dash
 
 ![License](https://img.shields.io/badge/license-MIT-brightgreen)
-![GitHub stars](https://img.shields.io/github/stars/HashSlap-Summer-of-Code/productivity-app)
-![GitHub issues](https://img.shields.io/github/issues/HashSlap-Summer-of-Code/productivity-app)
+![GitHub stars](https://img.shields.io/github/stars/HashSlap-Summer-of-Code/dev-dash)
+![GitHub issues](https://img.shields.io/github/issues/HashSlap-Summer-of-Code/dev-dash)
 
 A modern productivity suite to organize your tasks and time — featuring a to-do list, markdown notes editor, and Pomodoro time tracker. Built with **React**, **Supabase**, and **Clerk.dev**, styled using **Tailwind CSS + ShadCN UI**. Deploy it easily on **Netlify**.
 
@@ -38,8 +38,8 @@ A modern productivity suite to organize your tasks and time — featuring a to-d
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/HashSlap-Summer-of-Code/productivity-app.git
-cd productivity-app
+git clone https://github.com/HashSlap-Summer-of-Code/dev-dash.git
+cd dev-dash
 
 # 2. Install dependencies
 npm install
@@ -65,7 +65,7 @@ npm run dev
 ## 📁 Project Structure
 
 ```bash
-productivity-app/
+dev-dash/
 ├── public/                 # Static assets
 ├── src/
 │   ├── auth/               # Clerk setup
@@ -103,5 +103,4 @@ This project is licensed under the [MIT License](LICENSE).
 ## 🙌 Acknowledgements
 
 Built by the **HashSlap Summer of Code** community — with ❤️ and open source spirit.
-
 
