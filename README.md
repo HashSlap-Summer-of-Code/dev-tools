@@ -1,5 +1,5 @@
 
-# ⏱️ Dev-Dash
+# ⏱️ Dev-Tools
 
 ![License](https://img.shields.io/badge/license-MIT-brightgreen)
 ![GitHub stars](https://img.shields.io/github/stars/HashSlap-Summer-of-Code/dev-dash)
